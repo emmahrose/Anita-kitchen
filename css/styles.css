@@ -1,8 +1,36 @@
-.aligncenter {
-  margin-right: auto;
-  margin-left: auto;
+
+.max{
+  background-image: url(/home/emmah/Moringa-school/Anita-kitchen/img/landing.jpg);
+}
+.max{
+  text-align: center;
 }
 
-.jumbotron{
-  background-landing.jpg
+.max p{
+  color: white;
+}
+.Fast Food p{
+  float: right;
+}
+.conta {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px
+}
+.breakfast{
+  background-image: url(/home/emmah/Moringa-school/Anita-kitchen/img/foodtop/breakfast.jpg);
+}
+.lunch{
+  background-image: url(/home/emmah/Moringa-school/Anita-kitchen/img/foodtop/lunch.jpg);
+}
+..dinner{
+  background-image: url(/home/emmah/Moringa-school/Anita-kitchen/img/foodtop/dinner.jpg);
+}
+.Happy{
+padding-bottom: 15px
+}
+.party{
+  padding-bottom: 15px;
+  background-color: orange
 }
