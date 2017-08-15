@@ -9,9 +9,8 @@
 .max p{
   color: white;
 }
-.Fast Food p{
-  float: right;
-}
+
+
 .conta {
   position: absolute;
   width: 100px;
@@ -24,13 +23,28 @@
 .lunch{
   background-image: url(/home/emmah/Moringa-school/Anita-kitchen/img/foodtop/lunch.jpg);
 }
-..dinner{
+.dinner{
   background-image: url(/home/emmah/Moringa-school/Anita-kitchen/img/foodtop/dinner.jpg);
-}
+  }
+ .breakfast{
+   padding-bottom: 150px
+ }
+ .lunch{
+   padding-bottom: 150px
+ }
+ .dinner{
+   padding-bottom: 150px
+ }
 .Happy{
-padding-bottom: 15px
+padding-bottom: 55px
 }
 .party{
-  padding-bottom: 15px;
+  padding-bottom: 55px;
   background-color: orange
+}
+.emm{
+  display: inline;
+  position: relative;
+  width: 25px;
+  top: 210;
 }
