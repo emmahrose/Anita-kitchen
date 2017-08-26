@@ -20,28 +20,28 @@
                             .breakfast {
                               background-image: url(../img/foodtop/breakfast.jpg);
                               background-size: 100% background-repeat: no-repeat;
-                              padding-bottom: 150px;
+                              padding-bottom: 170px;
                               color: white;
                               text-align: center;
                             }
 
                             .lunch {
                               background-image: url(../img/foodtop/lunch.jpg);
-                              padding-bottom: 150px;
+                              padding-bottom: 170px;
                               color: white
                             }
 
                             .dinner {
                               background-image: url(../img/foodtop/dinner.jpg);
-                              padding-bottom: 150px
+                              padding-bottom: 170px
                             }
 
                             .Happy {
-                              padding-bottom: 55px
+                              padding-bottom: 70px
                             }
 
                             .party {
-                              padding-bottom: 55px;
+                              padding-bottom: 70px;
                               background-color: orange
                             }
 
@@ -112,4 +112,8 @@
                             .row .cust-pos img {
                               padding: 10px 0 0 100px;
                               align-content: center;
+                            }
+
+                            {
+                              box-shadow: 10px 10px 5px #888888;
                             }
