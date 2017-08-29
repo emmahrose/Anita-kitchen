@@ -31,18 +31,38 @@
                               color: white
                             }
 
+                            .section1 {
+                              padding: 0px;
+                              margin: -21px
+                            }
+
+                            @media(min_width 955px) {
+                              .col-md-3 {
+                                padding-left: 0px;
+                                padding-right: 0px;
+                              }
+                            }
+
+                            .col-md-3 {
+                              margin-left: -3px;
+                            }
+
                             .dinner {
                               background-image: url(../img/foodtop/dinner.jpg);
                               padding-bottom: 170px
                             }
 
                             .Happy {
-                              padding-bottom: 70px
+                              padding: 37.5px;
+                              text-align: center;
+                              margin-right: -12px;
                             }
 
                             .party {
-                              padding-bottom: 70px;
-                              background-color: orange
+                              padding: 37.5px;
+                              background-color: orange;
+                              text-align: center;
+                              margin-right: -12px;
                             }
 
                             .emm {
